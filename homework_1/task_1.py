@@ -30,6 +30,5 @@ if __name__ == "__main__":
     cat = Cat(name="Кошка", color="Серый")
     dog = Dog(name="Собака", color="Золотистый")
 
-    # Вызываем метод makesound() для каждого объекта
     cat.makesound()
     dog.makesound()
